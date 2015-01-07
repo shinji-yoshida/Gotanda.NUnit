@@ -3,7 +3,7 @@ using NUnit.Framework;
 using NUnit.Framework.Constraints;
 using System;
 
-namespace gotanda{
+namespace Gotanda.NUnit {
 	public class IsX {
 		
 		public static BinarySerializableConstraint BinarySerializable
